@@ -1,0 +1,19 @@
+{
+    "name": "Diva Beauty Salon",
+    "short_name": "Diva",
+    "start_url": "home.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Diva app.",
+    "icons": [{
+            "src": "img/diva-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "img/diva-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
